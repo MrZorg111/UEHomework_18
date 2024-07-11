@@ -1,0 +1,14 @@
+﻿"UEHomework_18.exe" (Win32). Загружено "C:\Users\yodji\source\repos\UEHomework_18\Debug\UEHomework_18.exe". Символы загружены.
+"UEHomework_18.exe" (Win32). Загружено "C:\Windows\SysWOW64\ntdll.dll". 
+"UEHomework_18.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel32.dll". 
+"UEHomework_18.exe" (Win32). Загружено "C:\Windows\SysWOW64\KernelBase.dll". 
+"UEHomework_18.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcp140d.dll". 
+"UEHomework_18.exe" (Win32). Загружено "C:\Windows\SysWOW64\vcruntime140d.dll". 
+"UEHomework_18.exe" (Win32). Загружено "C:\Windows\SysWOW64\ucrtbased.dll". 
+Поток 0x22f4 завершился с кодом 0 (0x0).
+"UEHomework_18.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel.appcore.dll". 
+"UEHomework_18.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcrt.dll". 
+"UEHomework_18.exe" (Win32). Загружено "C:\Windows\SysWOW64\rpcrt4.dll". 
+Поток 0x2a54 завершился с кодом 0 (0x0).
+Поток 0x2480 завершился с кодом 0 (0x0).
+Программа "[13272] UEHomework_18.exe" завершилась с кодом 0 (0x0).
